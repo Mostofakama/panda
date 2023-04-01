@@ -1,0 +1,47 @@
+.bg-panda {
+    background: #feeae9;
+}
+
+.image-1 {
+    width: 17%;
+}
+
+.image-2 {
+    width: 22%;
+}
+
+.image-3 {
+    width: 35%;
+}
+
+/* ------------------product---------------- */
+.fw-panda {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.img-panda {
+    height: 60% !important;
+}
+
+.img-panda-resize {
+    height: 65% !important;
+}
+
+.h-panda {
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+/* responsive */
+@media (max-width:992px) {
+    .display-panda {
+        display: none;
+    }
+}
